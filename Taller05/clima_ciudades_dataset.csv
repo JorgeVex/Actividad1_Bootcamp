@@ -1,0 +1,148 @@
+﻿ciudad,pais,region,fecha,temp_max_c,temp_min_c,rango_termico,precipitacion_mm,viento_max_kmh,condicion
+El Cairo,Egipto,Africa,2026-09-01,35.7,22.9,12.8,0.0,11.6,Seco
+El Cairo,Egipto,Africa,2026-09-02,35.6,23.7,11.9,0.0,14.0,Seco
+El Cairo,Egipto,Africa,2026-09-03,36.5,23.2,13.3,0.0,13.6,Seco
+El Cairo,Egipto,Africa,2026-09-04,36.5,23.7,12.8,0.0,10.5,Seco
+El Cairo,Egipto,Africa,2026-09-05,36.5,23.1,13.4,0.0,13.7,Seco
+El Cairo,Egipto,Africa,2026-09-06,35.5,23.2,12.3,0.0,13.6,Seco
+El Cairo,Egipto,Africa,2026-09-07,38.0,23.1,14.9,0.0,13.3,Seco
+Nairobi,Kenia,Africa,2026-09-01,23.1,14.0,9.1,1.9,11.3,Lluvioso
+Nairobi,Kenia,Africa,2026-09-02,26.4,14.9,11.5,1.1,14.4,Lluvioso
+Nairobi,Kenia,Africa,2026-09-03,27.1,14.2,12.9,0.1,16.4,Seco
+Nairobi,Kenia,Africa,2026-09-04,27.7,12.4,15.3,0.3,14.3,Seco
+Nairobi,Kenia,Africa,2026-09-05,28.6,13.4,15.2,0.0,16.4,Seco
+Nairobi,Kenia,Africa,2026-09-06,29.1,13.3,15.8,0.0,15.6,Seco
+Nairobi,Kenia,Africa,2026-09-07,28.9,15.3,13.6,0.6,9.4,Seco
+Pekin,China,Asia,2026-09-01,28.9,19.8,9.1,0.0,8.7,Seco
+Pekin,China,Asia,2026-09-02,30.1,18.9,11.2,0.0,9.3,Seco
+Pekin,China,Asia,2026-09-03,32.2,20.2,12.0,0.0,9.9,Seco
+Pekin,China,Asia,2026-09-04,32.1,20.5,11.6,0.0,8.3,Seco
+Pekin,China,Asia,2026-09-05,31.9,23.0,8.9,0.0,9.4,Seco
+Pekin,China,Asia,2026-09-06,32.0,22.7,9.3,0.0,10.1,Seco
+Pekin,China,Asia,2026-09-07,30.1,22.1,8.0,0.0,7.5,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-01,39.4,29.7,9.7,0.0,16.3,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-02,39.3,30.6,8.7,0.0,15.5,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-03,41.1,31.5,9.6,0.0,17.9,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-04,41.4,30.6,10.8,0.0,17.3,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-05,40.8,32.5,8.3,0.0,17.2,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-06,40.9,31.5,9.4,0.0,15.8,Seco
+Dubai,Emiratos Arabes Unidos,Asia,2026-09-07,40.2,31.5,8.7,0.0,15.9,Seco
+Tokio,Japon,Asia,2026-09-01,29.0,22.0,7.0,0.0,4.3,Seco
+Tokio,Japon,Asia,2026-09-02,30.7,23.2,7.5,0.0,5.5,Seco
+Tokio,Japon,Asia,2026-09-03,28.2,22.6,5.6,2.1,8.0,Lluvioso
+Tokio,Japon,Asia,2026-09-04,28.9,22.4,6.5,3.23,7.8,Lluvioso
+Tokio,Japon,Asia,2026-09-05,26.7,21.5,5.2,13.4,10.7,Lluvioso
+Tokio,Japon,Asia,2026-09-06,23.7,20.2,3.5,71.8,15.2,Lluvioso
+Tokio,Japon,Asia,2026-09-07,23.1,20.4,2.7,49.8,18.1,Lluvioso
+Berlin,Alemania,Europa,2026-09-01,22.4,15.9,6.5,1.2,18.1,Lluvioso
+Berlin,Alemania,Europa,2026-09-02,21.1,14.2,6.9,0.0,12.2,Seco
+Berlin,Alemania,Europa,2026-09-03,21.3,15.1,6.2,0.0,15.6,Seco
+Berlin,Alemania,Europa,2026-09-04,24.8,18.4,6.4,8.4,14.8,Lluvioso
+Berlin,Alemania,Europa,2026-09-05,21.3,15.5,5.8,0.9,18.9,Seco
+Berlin,Alemania,Europa,2026-09-06,22.0,11.9,10.1,0.0,10.7,Seco
+Berlin,Alemania,Europa,2026-09-07,25.4,16.4,9.0,0.0,17.7,Seco
+Madrid,Espana,Europa,2026-09-01,33.8,17.8,16.0,0.0,10.0,Seco
+Madrid,Espana,Europa,2026-09-02,36.0,17.0,19.0,0.0,8.2,Seco
+Madrid,Espana,Europa,2026-09-03,38.8,19.8,19.0,0.0,11.0,Seco
+Madrid,Espana,Europa,2026-09-04,38.6,19.9,18.7,0.0,6.5,Seco
+Madrid,Espana,Europa,2026-09-05,39.1,21.7,17.4,0.0,11.2,Seco
+Madrid,Espana,Europa,2026-09-06,36.7,24.5,12.2,0.0,12.0,Seco
+Madrid,Espana,Europa,2026-09-07,35.7,20.6,15.1,0.3,8.6,Seco
+Paris,Francia,Europa,2026-09-01,23.2,15.0,8.2,0.0,7.9,Seco
+Paris,Francia,Europa,2026-09-02,25.4,16.9,8.5,0.0,9.4,Seco
+Paris,Francia,Europa,2026-09-03,27.5,16.4,11.1,0.0,10.5,Seco
+Paris,Francia,Europa,2026-09-04,28.4,18.6,9.8,0.0,13.9,Seco
+Paris,Francia,Europa,2026-09-05,24.5,17.2,7.3,0.9,8.7,Seco
+Paris,Francia,Europa,2026-09-06,31.9,12.8,19.1,0.0,10.3,Seco
+Paris,Francia,Europa,2026-09-07,26.1,18.3,7.8,0.0,8.3,Seco
+Londres,Reino Unido,Europa,2026-09-01,21.8,14.9,6.9,0.0,13.7,Seco
+Londres,Reino Unido,Europa,2026-09-02,21.7,16.5,5.2,0.0,25.2,Seco
+Londres,Reino Unido,Europa,2026-09-03,24.4,17.8,6.6,0.0,19.1,Seco
+Londres,Reino Unido,Europa,2026-09-04,25.3,19.4,5.9,0.3,20.5,Seco
+Londres,Reino Unido,Europa,2026-09-05,24.3,18.5,5.8,0.0,12.6,Seco
+Londres,Reino Unido,Europa,2026-09-06,20.3,17.7,2.6,4.0,18.4,Lluvioso
+Londres,Reino Unido,Europa,2026-09-07,19.7,15.9,3.8,1.4,15.8,Lluvioso
+Toronto,Canada,Norteamerica,2026-08-31,19.6,18.4,1.2,5.6,12.1,Lluvioso
+Toronto,Canada,Norteamerica,2026-09-01,25.1,18.7,6.4,10.9,12.6,Lluvioso
+Toronto,Canada,Norteamerica,2026-09-02,23.6,18.8,4.8,61.95,20.3,Lluvioso
+Toronto,Canada,Norteamerica,2026-09-03,28.2,19.1,9.1,3.0,11.8,Lluvioso
+Toronto,Canada,Norteamerica,2026-09-04,26.8,18.9,7.9,0.0,17.2,Seco
+Toronto,Canada,Norteamerica,2026-09-05,24.3,16.7,7.6,0.0,19.6,Seco
+Toronto,Canada,Norteamerica,2026-09-06,22.0,15.4,6.6,0.0,18.9,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-08-31,29.9,18.7,11.2,0.0,15.9,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-09-01,27.2,15.6,11.6,0.0,15.0,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-09-02,28.6,13.7,14.9,0.0,21.3,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-09-03,28.5,21.3,7.2,0.0,17.4,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-09-04,27.8,21.1,6.7,0.0,17.4,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-09-05,29.4,21.0,8.4,0.0,17.6,Seco
+Los Angeles,Estados Unidos,Norteamerica,2026-09-06,31.2,21.7,9.5,3.0,17.0,Lluvioso
+Nueva York,Estados Unidos,Norteamerica,2026-08-31,25.6,20.7,4.9,0.0,11.6,Seco
+Nueva York,Estados Unidos,Norteamerica,2026-09-01,28.2,21.2,7.0,4.0,13.6,Lluvioso
+Nueva York,Estados Unidos,Norteamerica,2026-09-02,25.1,21.1,4.0,0.8,17.4,Seco
+Nueva York,Estados Unidos,Norteamerica,2026-09-03,30.2,22.1,8.1,8.7,27.2,Lluvioso
+Nueva York,Estados Unidos,Norteamerica,2026-09-04,31.8,23.4,8.4,2.6,21.4,Lluvioso
+Nueva York,Estados Unidos,Norteamerica,2026-09-05,28.0,20.8,7.2,0.0,26.6,Seco
+Nueva York,Estados Unidos,Norteamerica,2026-09-06,25.3,17.1,8.2,0.0,24.8,Seco
+Ciudad de Mexico,Mexico,Norteamerica,2026-08-31,21.3,13.5,7.8,3.3,11.7,Lluvioso
+Ciudad de Mexico,Mexico,Norteamerica,2026-09-01,20.5,13.2,7.3,15.4,9.0,Lluvioso
+Ciudad de Mexico,Mexico,Norteamerica,2026-09-02,21.8,13.5,8.3,6.5,7.5,Lluvioso
+Ciudad de Mexico,Mexico,Norteamerica,2026-09-03,22.7,13.7,9.0,5.7,8.3,Lluvioso
+Ciudad de Mexico,Mexico,Norteamerica,2026-09-04,23.5,11.5,12.0,3.6,5.0,Lluvioso
+Ciudad de Mexico,Mexico,Norteamerica,2026-09-05,23.5,13.8,9.7,0.9,9.3,Seco
+Ciudad de Mexico,Mexico,Norteamerica,2026-09-06,22.3,13.9,8.4,1.6,8.1,Lluvioso
+Sidney,Australia,Oceania,2026-09-01,22.0,9.4,12.6,0.0,15.1,Seco
+Sidney,Australia,Oceania,2026-09-02,26.2,16.2,10.0,0.0,20.3,Seco
+Sidney,Australia,Oceania,2026-09-03,25.7,15.5,10.2,0.0,20.1,Seco
+Sidney,Australia,Oceania,2026-09-04,21.2,12.3,8.9,0.0,19.5,Seco
+Sidney,Australia,Oceania,2026-09-05,28.2,14.2,14.0,0.0,29.9,Seco
+Sidney,Australia,Oceania,2026-09-06,19.2,13.4,5.8,0.0,18.7,Seco
+Sidney,Australia,Oceania,2026-09-07,18.7,11.4,7.3,0.1,13.5,Seco
+Buenos Aires,Argentina,Sudamerica,2026-08-31,16.6,12.2,4.4,0.2,14.5,Seco
+Buenos Aires,Argentina,Sudamerica,2026-09-01,17.3,10.7,6.6,0.4,12.4,Seco
+Buenos Aires,Argentina,Sudamerica,2026-09-02,20.2,10.0,10.2,0.8,13.1,Seco
+Buenos Aires,Argentina,Sudamerica,2026-09-03,17.4,11.6,5.8,9.0,15.9,Lluvioso
+Buenos Aires,Argentina,Sudamerica,2026-09-04,16.7,7.1,9.6,0.0,11.3,Seco
+Buenos Aires,Argentina,Sudamerica,2026-09-05,13.6,6.8,6.8,0.0,15.9,Seco
+Buenos Aires,Argentina,Sudamerica,2026-09-06,10.4,2.3,8.1,0.0,15.2,Seco
+Sao Paulo,Brasil,Sudamerica,2026-08-31,26.4,17.7,8.7,8.9,14.7,Lluvioso
+Sao Paulo,Brasil,Sudamerica,2026-09-01,22.6,14.4,8.2,42.9,20.1,Lluvioso
+Sao Paulo,Brasil,Sudamerica,2026-09-02,18.8,11.5,7.3,0.2,12.9,Seco
+Sao Paulo,Brasil,Sudamerica,2026-09-03,24.9,9.8,15.1,0.0,11.5,Seco
+Sao Paulo,Brasil,Sudamerica,2026-09-04,27.1,14.9,12.2,0.2,10.1,Seco
+Sao Paulo,Brasil,Sudamerica,2026-09-05,23.6,13.8,9.8,3.1,8.0,Lluvioso
+Sao Paulo,Brasil,Sudamerica,2026-09-06,17.9,11.2,6.7,17.3,16.5,Lluvioso
+Santiago,Chile,Sudamerica,2026-08-31,19.1,9.0,10.1,7.1,8.9,Lluvioso
+Santiago,Chile,Sudamerica,2026-09-01,20.8,7.8,13.0,0.0,4.2,Seco
+Santiago,Chile,Sudamerica,2026-09-02,20.0,12.5,7.5,0.0,10.1,Seco
+Santiago,Chile,Sudamerica,2026-09-03,18.5,9.7,8.8,0.0,8.8,Seco
+Santiago,Chile,Sudamerica,2026-09-04,17.9,8.3,9.6,0.0,8.7,Seco
+Santiago,Chile,Sudamerica,2026-09-05,19.2,8.0,11.2,0.0,7.9,Seco
+Santiago,Chile,Sudamerica,2026-09-06,21.7,8.1,13.6,0.0,6.6,Seco
+Barranquilla,Colombia,Sudamerica,2026-08-31,31.1,25.3,5.8,9.8,9.1,Lluvioso
+Barranquilla,Colombia,Sudamerica,2026-09-01,32.1,25.0,7.1,14.8,10.6,Lluvioso
+Barranquilla,Colombia,Sudamerica,2026-09-02,32.5,24.8,7.7,4.9,10.8,Lluvioso
+Barranquilla,Colombia,Sudamerica,2026-09-03,32.0,26.1,5.9,3.1,10.9,Lluvioso
+Barranquilla,Colombia,Sudamerica,2026-09-04,31.8,25.5,6.3,3.5,13.7,Lluvioso
+Barranquilla,Colombia,Sudamerica,2026-09-05,32.1,26.3,5.8,5.4,18.2,Lluvioso
+Barranquilla,Colombia,Sudamerica,2026-09-06,32.6,26.2,6.4,2.4,7.6,Lluvioso
+Bogota,Colombia,Sudamerica,2026-08-31,20.6,12.1,8.5,1.7,17.7,Lluvioso
+Bogota,Colombia,Sudamerica,2026-09-01,21.6,10.8,10.8,1.0,13.8,Seco
+Bogota,Colombia,Sudamerica,2026-09-02,20.4,10.7,9.7,1.5,17.9,Lluvioso
+Bogota,Colombia,Sudamerica,2026-09-03,20.5,10.4,10.1,1.6,15.2,Lluvioso
+Bogota,Colombia,Sudamerica,2026-09-04,20.4,11.4,9.0,0.9,14.2,Seco
+Bogota,Colombia,Sudamerica,2026-09-05,20.8,10.9,9.9,0.9,14.9,Seco
+Bogota,Colombia,Sudamerica,2026-09-06,20.9,10.1,10.8,2.4,12.5,Lluvioso
+Medellin,Colombia,Sudamerica,2026-08-31,29.9,17.2,12.7,2.7,6.1,Lluvioso
+Medellin,Colombia,Sudamerica,2026-09-01,27.6,17.4,10.2,4.3,7.1,Lluvioso
+Medellin,Colombia,Sudamerica,2026-09-02,28.8,17.0,11.8,3.2,11.3,Lluvioso
+Medellin,Colombia,Sudamerica,2026-09-03,28.7,17.6,11.1,1.5,10.3,Lluvioso
+Medellin,Colombia,Sudamerica,2026-09-04,29.4,18.4,11.0,2.3,12.8,Lluvioso
+Medellin,Colombia,Sudamerica,2026-09-05,29.8,17.4,12.4,1.2,13.0,Lluvioso
+Medellin,Colombia,Sudamerica,2026-09-06,28.7,16.4,12.3,1.0,14.9,Seco
+Lima,Peru,Sudamerica,2026-08-31,23.2,18.8,4.4,0.0,16.9,Seco
+Lima,Peru,Sudamerica,2026-09-01,22.8,19.3,3.5,0.0,14.7,Seco
+Lima,Peru,Sudamerica,2026-09-02,23.5,17.9,5.6,0.0,15.9,Seco
+Lima,Peru,Sudamerica,2026-09-03,23.1,18.2,4.9,0.0,16.4,Seco
+Lima,Peru,Sudamerica,2026-09-04,22.9,17.6,5.3,0.0,15.5,Seco
+Lima,Peru,Sudamerica,2026-09-05,23.3,17.7,5.6,0.0,12.3,Seco
+Lima,Peru,Sudamerica,2026-09-06,23.4,18.9,4.5,0.0,10.3,Seco
